@@ -8,6 +8,8 @@ export interface JobFound {
 
 export interface LinkedInAnalysis {
   profileSummary: string;
+  detectedRole?: string;
+  detectedCompany?: string;
   matchScore: number;
   bestJobMatch: JobFound;
   otherJobsFound: JobFound[];
