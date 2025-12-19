@@ -1,0 +1,5 @@
+{
+  "name": "LinkUp Analyzer",
+  "description": "Uma ferramenta avançada que utiliza a Inteligência Artificial Gemini para analisar seu perfil do LinkedIn, compará-lo com vagas de emprego e fornecer feedbacks acionáveis para melhorar sua empregabilidade e escrita profissional.",
+  "requestFramePermissions": []
+}
